@@ -6,6 +6,7 @@ public class Class2 {
 	{
 	
 		System.out.println("pcakage 2 updated code");
+		System.out.println("Hello");
 	}
 
 }
